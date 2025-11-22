@@ -1,0 +1,18 @@
+# Core numerical & scientific stack
+numpy
+matplotlib
+
+# Deep learning
+torch
+torchvision
+
+# Data loading & image handling
+Pillow
+tqdm
+
+# 3D processing & rendering
+trimesh
+pyrender
+
+# Config and utils
+PyYAML
