@@ -5,10 +5,6 @@ Author: Manh Tuan Do
 
 This repository contains the code for a view-based 3D shape retrieval system on ModelNet10.
 
-Dưới đây là đoạn README (Markdown) mà bạn có thể copy-paste vào repo cho 2 phần **Repository structure** và **Usage / Guidance**.
-
----
-
 ### Repository structure
 
 This repository contains a minimal but complete pipeline for view-based 3D shape retrieval on ModelNet10.
@@ -169,8 +165,4 @@ When running on **Google Colab**:
   in the config to folders under `/content/drive/MyDrive/…` to persist results.
 * If RAM is limited, we can reduce `batch_size` in the config or render fewer
   views per object (`num_views`).
-
----
-
-Bạn có thể chỉnh lại đường dẫn, tên file cho đúng với repo thực tế của bạn, nhưng khung nội dung và cách giải thích này đã đủ “master-student style” và thể hiện rõ bạn hiểu pipeline từ đầu tới cuối.
 
